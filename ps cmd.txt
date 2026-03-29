@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File .\android-package-uninstaller.ps1
